@@ -10,11 +10,11 @@ Script is a simulation of a post office using processes and semaphores in C. The
   ./proj2 <NZ> <NU> <TZ> <TU> <F>
 ```
 ### Parameters
-`NZ`: number of customers
-`NU`: number of post office workers
-`TZ`: maximum customer delay before entering the post office (range <0, 10000> in ms)
-`TU`: maximum post office worker break time (range <0, 100> in ms)
-`F`: maximum time before the post office closes (range <0, 10000> in ms)
+`NZ`: number of customers<br>
+`NU`: number of post office workers<br>
+`TZ`: maximum customer delay before entering the post office (range <0, 10000> in ms)<br>
+`TU`: maximum post office worker break time (range <0, 100> in ms)<br>
+`F`: maximum time before the post office closes (range <0, 10000> in ms)<br>
 
 ## Output
 Program outputs logs to a `.out` file detailing the whole process
